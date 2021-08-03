@@ -1,5 +1,5 @@
 User-agent: *
 Allow: 
 
-Sitemap: https://stafaband.herokuapp.com/host-https-stafalagu.wapku.net/sitemap.xml
+Sitemap: https://stafaband.herokuapp.com/host-http-stafalagu.wapku.net/sitemap.xml
 Sitemap: https://stafaband.herokuapp.com/sitemap.xml
